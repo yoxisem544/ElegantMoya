@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0116CB2B0F1E20CCA74F2BE2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		0116CB2B0F1E20CCA74F2BE2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		08A1216E6CC00D3C9E206502 /* Pods-ElegantMoya_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ElegantMoya_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ElegantMoya_Example/Pods-ElegantMoya_Example.release.xcconfig"; sourceTree = "<group>"; };
 		16AA258F221C907D6C5C6C5A /* Pods_ElegantMoya_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ElegantMoya_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE4CEA706CE300884DC03B3 /* Pods-ElegantMoya_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ElegantMoya_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ElegantMoya_Tests/Pods-ElegantMoya_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,8 +45,8 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		68C22281F9B947124ADD80D6 /* Pods-ElegantMoya_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ElegantMoya_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ElegantMoya_Tests/Pods-ElegantMoya_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		68D71F1107D79BE27C2FD263 /* Pods_ElegantMoya_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ElegantMoya_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8FA115FE353900A293DB7137 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E0EF22720927561A9036FEAB /* ElegantMoya.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ElegantMoya.podspec; path = ../ElegantMoya.podspec; sourceTree = "<group>"; };
+		8FA115FE353900A293DB7137 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E0EF22720927561A9036FEAB /* ElegantMoya.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ElegantMoya.podspec; path = ../ElegantMoya.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

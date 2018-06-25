@@ -1,0 +1,6 @@
+framework module Pods_ElegantMoya_Tests {
+  umbrella header "Pods-ElegantMoya_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
